@@ -1,4 +1,4 @@
-module github.com/aerospike/aerospike-management-lib
+module github.com/hsingla009/aerospike-management-lib
 
 go 1.19
 
